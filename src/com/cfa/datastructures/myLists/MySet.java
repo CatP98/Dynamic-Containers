@@ -8,7 +8,7 @@ public class MySet implements SetI {
 
     @Override
     public int size() {
-        return 0;
+        return -1;
     }
 
     @Override
