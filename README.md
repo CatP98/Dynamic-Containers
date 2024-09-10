@@ -29,7 +29,7 @@ This project provides custom implementations of basic Java collections: `List`, 
 
 1. **Build**: Use Ant to compile and package the project.
    ```bash
-
+    ant
 2. **Package**: The resulting JAR file will be created in the build directory.
 
 
