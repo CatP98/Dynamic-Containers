@@ -4,6 +4,10 @@
 
 This project provides custom implementations of basic Java collections: `List`, `Queue`, and `Set`. The framework is designed to help understand the inner workings of these data structures by implementing them from scratch.
 
+## Languages
+
+- Java
+
 ## Implementations
 
 ### 1. `User`
