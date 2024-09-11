@@ -4,9 +4,19 @@
 
 This project provides custom implementations of basic Java collections: `List`, `Queue`, and `Set`. The framework is designed to help understand the inner workings of these data structures by implementing them from scratch.
 
-## Languages
+### Languages
+- **JavaScript**: Used for frontend and backend development.
+- **Python**: Used for data analysis and machine learning tasks.
 
-- Java
+### Frameworks and Libraries
+- **React**: JavaScript library for building user interfaces.
+- **Express.js**: Web application framework for Node.js.
+- **Spring Framework**: Framework for building Java applications.
+
+### Tools
+- **Git**: Version control system used for tracking changes.
+- **GitHub**: Hosting platform for version control and collaboration.
+- **Maven**: Build automation tool used for managing dependencies.
 
 ## Implementations
 
